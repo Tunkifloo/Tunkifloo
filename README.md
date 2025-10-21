@@ -1,4 +1,4 @@
-<h2 align="left">Hi! 👋 I'm Adrian Cisneros Bartra, a 20-year-old Full Stack Junior Developer and Junior Software Engineer with extensive experience in transactional systems and web applications. I have worked with technologies such as REST APIs, Angular CLI, React TS, Vite, and Spring Boot, and have abundant experience in the AI sector.<br><br>Currently, I am pursuing a degree in Computer Engineering and Information Systems at the Universidad Privada Antenor Orrego.</h2>
+<h2 align="left">Hi! 👋 I'm Adrian Cisneros Bartra, a Full Stack Developer and Software Architect with extensive experience in transactional systems and web applications. I have worked with technologies such as REST APIs, Angular CLI, React TS, Vite, and Spring Boot, and have abundant experience in the AI sector.<br><br>Currently, I am pursuing a degree in Computer Engineering and Information Systems at the Universidad Privada Antenor Orrego.</h2>
 
 ###
 
