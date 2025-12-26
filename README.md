@@ -1,6 +1,6 @@
 <h2 align="left">Hello, I'm Adrián Cisneros
 Software Architect & Full-Stack Developer
-Arquitecto y Desarrollador de Software con 2 años de experiencia. Especializado en arquitecturas monolíticas, **microservicios e IA**. Cuento con **certificación profesional en Gestión de Proyectos basado en el PMBOK ** y **Metodologías Ágiles**, lo que potencia mi capacidad para liderar equipos técnicos. Actualmente continúo perfeccionando mi perfil técnico con el programa de especialización en **Arquitectura de Software en TECSUP**. Tengo experiencia liderando equipos de desarrollo, implementando infraestructura cloud y entregando productos escalables para startups y ONGs. </h2>
+Software Architect and Developer with 2 years of experience building scalable solutions. Specialized in monolithic architectures, microservices, and AI. I hold professional certifications in Project Management (PMBOK 7th Ed.) and Agile Methodologies, and have successfully completed a specialization in Software Architecture at TECSUP. This background empowers me to bridge the gap between code and strategy, leading technical teams to deliver high-quality engineering products. Proven experience leading development squads, implementing cloud infrastructure, and delivering robust solutions for startups and NGOs.</h2>
 
 ###
 
