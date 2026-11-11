@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Adrián Cisneros
 
-Backend / Full Stack developer from Trujillo, Peru. I work mainly with Java and Spring Boot,
+Full Stack developer from Trujillo, Peru. I work mainly with Java and Spring Boot,
 Python and TypeScript (Angular, React).
 
 - Software Engineer at CorAll D&R. I built Parkio (https://www.parkioperu.com), a parking SaaS
