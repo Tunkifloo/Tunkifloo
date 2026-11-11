@@ -1,4 +1,4 @@
-<h2 align="left">### Hi, I'm Adrián Cisneros
+<h2 align="left">Hi, I'm Adrián Cisneros
 
 Backend / Full Stack developer from Trujillo, Peru. I work mainly with Java and Spring Boot,
 Python and TypeScript (Angular, React).
