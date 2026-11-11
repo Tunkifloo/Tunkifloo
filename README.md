@@ -1,6 +1,14 @@
-<h2 align="left">Hello, I'm Adrián Cisneros
-Software Architect & Full-Stack Developer
-Software Architect and Developer with 2 years of experience building scalable solutions. Specialized in monolithic architectures, microservices, and AI. I hold professional certifications in Project Management (PMBOK 7th Ed.) and Agile Methodologies, and have successfully completed a specialization in Software Architecture at TECSUP. This background empowers me to bridge the gap between code and strategy, leading technical teams to deliver high-quality engineering products. Proven experience leading development squads, implementing cloud infrastructure, and delivering robust solutions for startups and NGOs.</h2>
+<h2 align="left">### Hi, I'm Adrián Cisneros
+
+Backend / Full Stack developer from Trujillo, Peru. I work mainly with Java and Spring Boot,
+Python and TypeScript (Angular, React).
+
+- Software Engineer at CorAll D&R. I built Parkio (https://www.parkioperu.com), a parking SaaS
+  with a Spring Boot API, a React Native app and Angular dashboards.
+- I also work on ERP modules, SUNAT e-invoicing and WhatsApp automations for clients.
+- Software Architecture specialization (TECSUP, 19/20). PMBOK 7 and Agile certifications (CIP).
+
+Portfolio: https://acisneros-portfolio.vercel.app</h2>
 
 ###
 
